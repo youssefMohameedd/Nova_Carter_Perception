@@ -1,0 +1,29 @@
+running egg_info
+writing ../../build/nova_carter_perception/nova_carter_perception.egg-info/PKG-INFO
+writing dependency_links to ../../build/nova_carter_perception/nova_carter_perception.egg-info/dependency_links.txt
+writing entry points to ../../build/nova_carter_perception/nova_carter_perception.egg-info/entry_points.txt
+writing requirements to ../../build/nova_carter_perception/nova_carter_perception.egg-info/requires.txt
+writing top-level names to ../../build/nova_carter_perception/nova_carter_perception.egg-info/top_level.txt
+reading manifest file '../../build/nova_carter_perception/nova_carter_perception.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/nova_carter_perception/nova_carter_perception.egg-info/SOURCES.txt'
+running build
+running build_py
+copying nova_carter_perception/lidar_camera_projection.py -> /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception
+copying nova_carter_perception/yolo_detector.py -> /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception
+running install
+running install_lib
+copying /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception/lidar_camera_projection.py -> /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception
+copying /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception/yolo_detector.py -> /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception
+byte-compiling /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception/lidar_camera_projection.py to lidar_camera_projection.cpython-312.pyc
+byte-compiling /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception/yolo_detector.py to yolo_detector.cpython-312.pyc
+running install_data
+copying package.xml -> /home/youssef/ros2_ws/install/nova_carter_perception/share/nova_carter_perception
+running install_egg_info
+removing '/home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/nova_carter_perception/nova_carter_perception.egg-info to /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception-0.0.0-py3.12.egg-info
+running install_scripts
+Installing lidar_camera_projection script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+Installing rgb_listener script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+Installing yolo_detector script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+writing list of installed files to '/home/youssef/ros2_ws/build/nova_carter_perception/install.log'

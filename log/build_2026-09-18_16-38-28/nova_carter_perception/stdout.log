@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing nova_carter_perception.egg-info/PKG-INFO
+writing dependency_links to nova_carter_perception.egg-info/dependency_links.txt
+writing entry points to nova_carter_perception.egg-info/entry_points.txt
+writing requirements to nova_carter_perception.egg-info/requires.txt
+writing top-level names to nova_carter_perception.egg-info/top_level.txt
+reading manifest file 'nova_carter_perception.egg-info/SOURCES.txt'
+writing manifest file 'nova_carter_perception.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova-carter-perception.egg-link (link to .)
+Installing rgb_listener script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+Installing yolo_detector script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+
+Installed /home/youssef/ros2_ws/build/nova_carter_perception
+running symlink_data

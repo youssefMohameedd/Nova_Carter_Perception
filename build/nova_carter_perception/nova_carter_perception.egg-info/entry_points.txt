@@ -1,0 +1,10 @@
+[console_scripts]
+fusion_video_recorder = nova_carter_perception.fusion_video_recorder:main
+lidar_camera_projection = nova_carter_perception.lidar_camera_projection:main
+lidar_yolo_fusion = nova_carter_perception.lidar_yolo_fusion:main
+multi_camera_fusion = nova_carter_perception.multi_camera_fusion:main
+rgb_listener = nova_carter_perception.rgb_listener:main
+right_lidar_yolo_fusion = nova_carter_perception.right_lidar_yolo_fusion:main
+right_yolo_detector = nova_carter_perception.yolo_detector_right:main
+trajectory_controller = nova_carter_perception.trajectory_controller:main
+yolo_detector = nova_carter_perception.yolo_detector:main

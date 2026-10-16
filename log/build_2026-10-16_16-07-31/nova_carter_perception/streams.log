@@ -1,0 +1,50 @@
+[0.646s] Invoking command in '/home/youssef/ros2_ws/src/nova_carter_perception': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(.venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/youssef/ros2_ws/build/nova_carter_perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(.venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/nova_carter_perception build --build-base /home/youssef/ros2_ws/build/nova_carter_perception/build install --record /home/youssef/ros2_ws/build/nova_carter_perception/install.log --install-scripts $base/lib/nova_carter_perception --single-version-externally-managed install_data
+[0.862s] running egg_info
+[0.862s] creating ../../build/nova_carter_perception/nova_carter_perception.egg-info
+[0.878s] writing ../../build/nova_carter_perception/nova_carter_perception.egg-info/PKG-INFO
+[0.878s] writing dependency_links to ../../build/nova_carter_perception/nova_carter_perception.egg-info/dependency_links.txt
+[0.878s] writing entry points to ../../build/nova_carter_perception/nova_carter_perception.egg-info/entry_points.txt
+[0.878s] writing requirements to ../../build/nova_carter_perception/nova_carter_perception.egg-info/requires.txt
+[0.878s] writing top-level names to ../../build/nova_carter_perception/nova_carter_perception.egg-info/top_level.txt
+[0.878s] writing manifest file '../../build/nova_carter_perception/nova_carter_perception.egg-info/SOURCES.txt'
+[0.911s] reading manifest file '../../build/nova_carter_perception/nova_carter_perception.egg-info/SOURCES.txt'
+[0.912s] adding license file 'LICENSE'
+[0.912s] writing manifest file '../../build/nova_carter_perception/nova_carter_perception.egg-info/SOURCES.txt'
+[0.912s] running build
+[0.912s] running build_py
+[0.912s] creating /home/youssef/ros2_ws/build/nova_carter_perception/build
+[0.912s] creating /home/youssef/ros2_ws/build/nova_carter_perception/build/lib
+[0.912s] creating /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception
+[0.913s] copying nova_carter_perception/lidar_camera_projection.py -> /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception
+[0.913s] copying nova_carter_perception/lidar_yolo_fusion.py -> /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception
+[0.913s] copying nova_carter_perception/__init__.py -> /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception
+[0.913s] copying nova_carter_perception/yolo_detector.py -> /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception
+[0.913s] copying nova_carter_perception/rgb_listener.py -> /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception
+[0.913s] running install
+[0.918s] running install_lib
+[0.935s] creating /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception
+[0.935s] copying /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception/lidar_camera_projection.py -> /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception
+[0.935s] copying /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception/lidar_yolo_fusion.py -> /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception
+[0.935s] copying /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception/__init__.py -> /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception
+[0.935s] copying /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception/yolo_detector.py -> /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception
+[0.935s] copying /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception/rgb_listener.py -> /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception
+[0.936s] byte-compiling /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception/lidar_camera_projection.py to lidar_camera_projection.cpython-312.pyc
+[0.937s] byte-compiling /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception/lidar_yolo_fusion.py to lidar_yolo_fusion.cpython-312.pyc
+[0.939s] byte-compiling /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception/__init__.py to __init__.cpython-312.pyc
+[0.939s] byte-compiling /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception/yolo_detector.py to yolo_detector.cpython-312.pyc
+[0.940s] byte-compiling /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception/rgb_listener.py to rgb_listener.cpython-312.pyc
+[0.940s] running install_data
+[0.940s] creating /home/youssef/ros2_ws/install/nova_carter_perception/share/ament_index
+[0.941s] creating /home/youssef/ros2_ws/install/nova_carter_perception/share/ament_index/resource_index
+[0.941s] creating /home/youssef/ros2_ws/install/nova_carter_perception/share/ament_index/resource_index/packages
+[0.941s] copying resource/nova_carter_perception -> /home/youssef/ros2_ws/install/nova_carter_perception/share/ament_index/resource_index/packages
+[0.941s] copying package.xml -> /home/youssef/ros2_ws/install/nova_carter_perception/share/nova_carter_perception
+[0.941s] running install_egg_info
+[0.958s] Copying ../../build/nova_carter_perception/nova_carter_perception.egg-info to /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception-0.0.0-py3.12.egg-info
+[0.959s] running install_scripts
+[1.068s] Installing lidar_camera_projection script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.068s] Installing lidar_yolo_fusion script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.068s] Installing rgb_listener script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.068s] Installing yolo_detector script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.068s] writing list of installed files to '/home/youssef/ros2_ws/build/nova_carter_perception/install.log'
+[1.098s] Invoked command in '/home/youssef/ros2_ws/src/nova_carter_perception' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(.venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/youssef/ros2_ws/build/nova_carter_perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(.venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/nova_carter_perception build --build-base /home/youssef/ros2_ws/build/nova_carter_perception/build install --record /home/youssef/ros2_ws/build/nova_carter_perception/install.log --install-scripts $base/lib/nova_carter_perception --single-version-externally-managed install_data
