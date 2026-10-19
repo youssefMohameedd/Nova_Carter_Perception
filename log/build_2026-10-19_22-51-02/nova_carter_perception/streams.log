@@ -1,0 +1,33 @@
+[0.727s] Invoking command in '/home/youssef/ros2_ws/src/nova_carter_perception': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/youssef/ros2_ws/build/nova_carter_perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/nova_carter_perception build --build-base /home/youssef/ros2_ws/build/nova_carter_perception/build install --record /home/youssef/ros2_ws/build/nova_carter_perception/install.log --install-scripts $base/lib/nova_carter_perception --single-version-externally-managed install_data
+[0.931s] running egg_info
+[0.946s] writing ../../build/nova_carter_perception/nova_carter_perception.egg-info/PKG-INFO
+[0.946s] writing dependency_links to ../../build/nova_carter_perception/nova_carter_perception.egg-info/dependency_links.txt
+[0.947s] writing entry points to ../../build/nova_carter_perception/nova_carter_perception.egg-info/entry_points.txt
+[0.947s] writing requirements to ../../build/nova_carter_perception/nova_carter_perception.egg-info/requires.txt
+[0.947s] writing top-level names to ../../build/nova_carter_perception/nova_carter_perception.egg-info/top_level.txt
+[0.978s] reading manifest file '../../build/nova_carter_perception/nova_carter_perception.egg-info/SOURCES.txt'
+[0.979s] adding license file 'LICENSE'
+[0.979s] writing manifest file '../../build/nova_carter_perception/nova_carter_perception.egg-info/SOURCES.txt'
+[0.979s] running build
+[0.979s] running build_py
+[0.979s] copying nova_carter_perception/fusion_video_recorder.py -> /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception
+[0.980s] running install
+[0.985s] running install_lib
+[0.999s] copying /home/youssef/ros2_ws/build/nova_carter_perception/build/lib/nova_carter_perception/fusion_video_recorder.py -> /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception
+[1.000s] byte-compiling /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception/fusion_video_recorder.py to fusion_video_recorder.cpython-312.pyc
+[1.001s] running install_data
+[1.001s] running install_egg_info
+[1.018s] removing '/home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception-0.0.0-py3.12.egg-info' (and everything under it)
+[1.019s] Copying ../../build/nova_carter_perception/nova_carter_perception.egg-info to /home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages/nova_carter_perception-0.0.0-py3.12.egg-info
+[1.019s] running install_scripts
+[1.124s] Installing fusion_video_recorder script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.124s] Installing lidar_camera_projection script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.124s] Installing lidar_yolo_fusion script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.124s] Installing multi_camera_fusion script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.124s] Installing rgb_listener script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.124s] Installing right_lidar_yolo_fusion script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.124s] Installing right_yolo_detector script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.124s] Installing trajectory_controller script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.124s] Installing yolo_detector script to /home/youssef/ros2_ws/install/nova_carter_perception/lib/nova_carter_perception
+[1.125s] writing list of installed files to '/home/youssef/ros2_ws/build/nova_carter_perception/install.log'
+[1.156s] Invoked command in '/home/youssef/ros2_ws/src/nova_carter_perception' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/youssef/ros2_ws/build/nova_carter_perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/ros2_ws/install/nova_carter_perception/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/nova_carter_perception build --build-base /home/youssef/ros2_ws/build/nova_carter_perception/build install --record /home/youssef/ros2_ws/build/nova_carter_perception/install.log --install-scripts $base/lib/nova_carter_perception --single-version-externally-managed install_data

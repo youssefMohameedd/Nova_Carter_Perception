@@ -35,7 +35,7 @@ setup(
     maintainer='youssef',
     maintainer_email='youssef@todo.todo',
     description='TODO: Package description',
-    license='Apache-2.0',
+    license='MIT',
     extras_require={
         'test': [
             'pytest',
