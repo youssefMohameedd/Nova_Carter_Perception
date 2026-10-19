@@ -4,6 +4,6 @@ Version: 0.0.0
 Summary: TODO: Package description
 Maintainer: youssef
 Maintainer-email: youssef@todo.todo
-License: Apache-2.0
+License: MIT
 Provides-Extra: test
 License-File: LICENSE
